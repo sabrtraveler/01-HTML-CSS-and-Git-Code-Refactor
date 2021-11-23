@@ -10,6 +10,6 @@ These are the changes that I have made:<br><br>
 <li>Included comments before each element or section of the page.<br>
 <li>Added accessible alt attributes to the image elements.<br><br>
 The following image shows the web application's appearance and functionality:<br><br> 
-  <img src="/assets/images/01-html-css-git-homework-demo.png" style="width: 50%; max-width: 50%;">
+  <img src="/assets/images/My-first-refactor-completed-ohyeah.png" style="width: 50%; max-width: 50%;">
 
 Link to deployment: https://sabrtraveler.github.io/My-first-refactor-completed-ohyeah/
