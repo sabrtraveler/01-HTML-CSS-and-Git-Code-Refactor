@@ -1,7 +1,9 @@
 # My-first-refactor-completed-ohyeah
 
+Link to deployment: https://sabrtraveler.github.io/My-first-refactor-completed-ohyeah/<br>
+
 This first challenge of the bootcamp was to refactor the given Horiseon website to meet accessibility standards so the site is optimized for search engines.<br><br>
-These are the changes that I have made:<br><br>
+These are the changes that I have made:<br>
 <li>Added appropriate semantic elements in the HTML file.<br>
 <li>Fixed all broken links to make them functioning properly.<br>
 <li>Fixed the head title to be descriptive for seo purposes.<br>
@@ -11,5 +13,3 @@ These are the changes that I have made:<br><br>
 <li>Added accessible alt attributes to the image elements.<br><br>
 The following image shows the web application's appearance and functionality:<br><br> 
   <img src="/assets/images/My-first-refactor-completed-ohyeah.png" style="width: 50%; max-width: 50%;">
-
-Link to deployment: https://sabrtraveler.github.io/My-first-refactor-completed-ohyeah/
